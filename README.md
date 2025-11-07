@@ -7,7 +7,7 @@
 - رم 2 یا بالا تر
 
 ## دانلود :
-(لینک : https://github.com/amiralitorabiafra12-.com/.ico/releases ) نسخه 1.0
+(لینک : https://github.com/amiralitorabiafra12-dotcom/.ico/releases ) نسخه 1.0
 
 ## راهنما :
 1.فایل را دانلود کنید
